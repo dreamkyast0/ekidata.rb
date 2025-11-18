@@ -2,4 +2,4 @@
 
 ## Link
 
-https://ichigozero.github.io/ekidata.rb/
+https://dreamkyast0.github.io/ekidata.rb/
